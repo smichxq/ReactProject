@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import APP from './button/Login'
+import Login from './button/Login'
 
-const el = <APP />;
-    ReactDOM.render(el,document.getElementById("root"));
+const el = <Login />;
+    ReactDOM.render(el,document.getElementById("root-2"));
